@@ -1,0 +1,21 @@
+customer_row,churn_probability,top_driver,recommended_action
+70,0.991,NumOfProducts,Cross-sell a second product with a fee waiver
+5950,0.989,NumOfProducts,Cross-sell a second product with a fee waiver
+3549,0.983,NumOfProducts,Cross-sell a second product with a fee waiver
+6172,0.982,NumOfProducts,Cross-sell a second product with a fee waiver
+6255,0.979,NumOfProducts,Cross-sell a second product with a fee waiver
+2092,0.974,NumOfProducts,Cross-sell a second product with a fee waiver
+9215,0.974,NumOfProducts,Cross-sell a second product with a fee waiver
+6524,0.973,NumOfProducts,Cross-sell a second product with a fee waiver
+5010,0.971,NumOfProducts,Cross-sell a second product with a fee waiver
+4842,0.97,NumOfProducts,Cross-sell a second product with a fee waiver
+6831,0.97,NumOfProducts,Cross-sell a second product with a fee waiver
+2473,0.97,Age,Assign to senior-relationship-manager outreach track
+555,0.968,NumOfProducts,Cross-sell a second product with a fee waiver
+9255,0.966,NumOfProducts,Cross-sell a second product with a fee waiver
+9540,0.96,NumOfProducts,Cross-sell a second product with a fee waiver
+776,0.958,Age,Assign to senior-relationship-manager outreach track
+1701,0.958,NumOfProducts,Cross-sell a second product with a fee waiver
+3251,0.956,NumOfProducts,Cross-sell a second product with a fee waiver
+416,0.953,Age,Assign to senior-relationship-manager outreach track
+1955,0.951,NumOfProducts,Cross-sell a second product with a fee waiver
