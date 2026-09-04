@@ -1,0 +1,10 @@
+pandas==2.3.3
+numpy==2.4.4
+scikit-learn==1.8.0
+lifelines==0.30.3
+scikit-uplift==0.5.1
+shap==0.52.0
+matplotlib==3.10.8
+seaborn==0.13.2
+joblib==1.5.3
+streamlit==1.63.0
